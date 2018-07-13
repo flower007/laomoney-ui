@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>Toast组件测试</title>
+    <link rel="stylesheet" href="../../dist/styles/laomoney.css"/>
+    <script type="text/javascript" src="http://vuejs.org/js/vue.min.js"></script>
+    <script type="text/javascript" src="../../dist/laomoney.js"></script>
+  </head>
+  <body>
+    <div id="app">
+      <loading type="spinner" color="black" />
+    </div>
+    <script>
+      new Vue({
+        el: '#app',
+        data: {
+          visible: false,
+        },
+        created () {
+          console.log(laomoney)
+          console.log(laomoney.version)
+          this.$toast('成功')
+        },
+        methods: {
+          show: function () {
+            this.visible = true;
+          }
+        }
+      })
+    </script>
+  </body>
+</html>
