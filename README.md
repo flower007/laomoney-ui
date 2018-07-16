@@ -6,7 +6,7 @@
 
 [![Build Status](https://travis-ci.org/flower007/laomoney-ui.svg?branch=master)](https://travis-ci.org/flower007/laomoney-ui)
 [![downloads](https://img.shields.io/npm/dt/laomoney.svg)](https://www.npmjs.com/package/laomoney)
-[![Coverage Status](https://img.shields.io/codecov/c/github/flower007/laomoney-ui/master.svg)](https://codecov.io/github/flower007/laomoney-ui?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/flower007/laomoney-ui/badge.svg?branch=master)](https://coveralls.io/repos/github/flower007/laomoney-ui/badge.svg?branch=master)
 [![npm version](https://img.shields.io/npm/v/laomoney.svg?style=flat)](https://www.npmjs.com/package/laomoney)
 [![license](https://img.shields.io/npm/l/laomoney.svg)](https://www.npmjs.com/package/laomoney)
 [![JS Gzip Size](http://img.badgesize.io/https://unpkg.com/laomoney/dist/laomoney.min.js?compression=gzip&style=flat&label=JS%20gzip%20size)](https://unpkg.com/laomoney/dist/laomoney.min.js)
