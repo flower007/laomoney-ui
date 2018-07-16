@@ -9,8 +9,8 @@
 [![Coverage Status](https://img.shields.io/codecov/c/github/flower007/laomoney-ui/master.svg)](https://codecov.io/github/flower007/laomoney-ui?branch=master)
 [![npm version](https://img.shields.io/npm/v/laomoney.svg?style=flat)](https://www.npmjs.com/package/laomoney)
 [![license](https://img.shields.io/npm/l/laomoney.svg)](https://www.npmjs.com/package/laomoney)
-[![JS Gzip Size](http://img.badgesize.io/https://unpkg.com/laomoney/dist/laomoney.min.js?compression=gzip&style=flat-square&label=JS%20gzip%20size)](https://unpkg.com/laomoney/dist/laomoney.min.js)
-[![CSS Gzip Size](http://img.badgesize.io/https://unpkg.com/laomoney/dist/styles/laomoney.css?compression=gzip&style=flat-square&label=CSS%20gzip%20size)](https://unpkg.com/laomoney/dist/styles/laomoney.css)
+[![JS Gzip Size](http://img.badgesize.io/https://unpkg.com/laomoney/dist/laomoney.min.js?compression=gzip&style=flat&label=JS%20gzip%20size)](https://unpkg.com/laomoney/dist/laomoney.min.js)
+[![CSS Gzip Size](http://img.badgesize.io/https://unpkg.com/laomoney/dist/styles/laomoney.css?compression=gzip&style=flat&label=CSS%20gzip%20size)](https://unpkg.com/laomoney/dist/styles/laomoney.css)
 
 ## Install
 
@@ -59,7 +59,7 @@ npm i babel-plugin-import -D
 }
 ```
 
-Then you can import components from vant, equivalent to import manually below.
+Then you can import components from laomoney, equivalent to import manually below.
 
 ```js
 import { Button } from 'laomoney';
