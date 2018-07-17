@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders demo correctly 1`] = `
+<div>
+  <div>
+    <button class="lcb-button  lcb-button--default lcb-button--normal"><span>Alert</span></button>
+    <button class="lcb-button  lcb-button--default lcb-button--normal"><span>无标题 Alert</span></button>
+  </div>
+  <div>
+    <button class="lcb-button  lcb-button--default lcb-button--normal"><span>Confirm</span></button>
+  </div>
+</div>
+`;

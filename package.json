@@ -1,6 +1,6 @@
 {
   "name": "laomoney",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "laocaibao ui toolkit",
   "author": "quegy <quegy@zendaimoney.com>",
   "main": "dist/laomoney.js",

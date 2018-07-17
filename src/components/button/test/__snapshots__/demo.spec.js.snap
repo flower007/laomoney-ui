@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders demo correctly 1`] = `
+<div>
+  <div>
+    <button class="lcb-button  lcb-button--default lcb-button--normal"><span>默认按钮</span></button>
+    <button class="lcb-button  lcb-button--primary lcb-button--normal"><span>主要按钮</span></button>
+    <button class="lcb-button  lcb-button--danger lcb-button--normal"><span>危险按钮</span></button>
+  </div>
+  <div>
+    <button class="lcb-button  lcb-button--default lcb-button--large"><span>大号按钮</span></button>
+    <button class="lcb-button  lcb-button--default lcb-button--normal"><span>普通按钮</span></button>
+    <button class="lcb-button  lcb-button--default lcb-button--small"><span>小型按钮</span></button>
+  </div>
+</div>
+`;
