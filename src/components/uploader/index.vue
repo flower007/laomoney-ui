@@ -72,7 +72,7 @@ export default {
         const reader = new FileReader()
         reader.onload = event => {
           resolve(event.target.result)
-        };
+        }
         if (this.resultType === 'dataUrl') {
           reader.readAsDataURL(file)
         } else if (this.resultType === 'text') {
